@@ -1,7 +1,7 @@
 <!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
 
 <h1 align="center">Hi 👋, I'm Farouq</h1>
-<h2 align="center">A passionate Scholar Informatics from Indonesia</h2>
+<h3 align="center">A passionate Scholar Informatics from Indonesia</h3>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
@@ -23,14 +23,24 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
+  <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+  
+  <!-- Java Frameworks -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="maven"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/>
 </p>
+
 
 ---
 
