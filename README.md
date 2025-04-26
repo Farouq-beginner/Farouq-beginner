@@ -25,8 +25,8 @@ I love building impactful digital products and continuously improving my skills 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Farouq-beginner=Farouq-beginner&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farouq-beginner=Farouq-beginner&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Farouq-beginner&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farouq-beginner&layout=compact&theme=tokyonight)
 
 ---
 
