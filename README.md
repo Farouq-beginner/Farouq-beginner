@@ -1,5 +1,16 @@
-<!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAMEKAMU" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="trophies" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAMEKAMU/USERNAMEKAMU/main/assets/banner.png" alt="banner" />
+</p>
 
+
+<!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
+<!--
 <h1 align="center">Hi 👋, I'm Farouq</h1>
 <h3 align="center">A passionate Scholar Informatics from Indonesia</h3>
 
@@ -84,6 +95,7 @@ _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 ![Contoh GIF](welcome.gif)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+-->
 <!--
 **Farouq-beginner/Farouq-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
