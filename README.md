@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
 </h3>
 
 <p align="center">
