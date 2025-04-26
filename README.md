@@ -2,7 +2,6 @@
 _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
 <!--
 **Farouq-beginner/Farouq-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
