@@ -1,13 +1,8 @@
-## Hi there 👋
 # Halo, Saya Farouq! 👋
-_Pemula yang antusias, belajar teknologi masa depan dengan Python._
+_Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
-## 🌟 Proyek Unggulan
-- **[Just a Beginner](https://github.com/Farouq-beginner/Just-a-Beginner):** Robotik Python dan Dashboard Admin.
-- **[Web Design Team Digital Empowerment](https://github.com/Farouq-beginner/Web-Design-Team-Digital-Empowerment):** Desain web modern dengan JavaScript.
-
-## 📸 Contoh Proyek
-![Robotik Python](https://via.placeholder.com/800x400?text=Gambar+Proyek)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 <!--
 **Farouq-beginner/Farouq-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
