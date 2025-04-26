@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
 </h3>
 
-<h2 align="center">⏰ Digital Clock</h2>
-
-<p align="center">
-  <img src="https://time.is/UTC/000000" alt="Digital Clock" />
-</p>
-
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farouq-beginner/Farouq-beginner/main/assets/banner.png" alt="banner" />
 </p>
