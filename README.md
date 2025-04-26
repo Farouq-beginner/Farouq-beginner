@@ -1,8 +1,8 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm Farouq 👋
 
 ## 🚀 About Me
-I'm a passionate [profesi: e.g., Fullstack Developer, Data Scientist, Mobile Developer] from [lokasi / negara].  
-I love building impactful digital products and continuously improving my skills in [bidang utama, misal: web development, AI, mobile apps].
+I'm a passionate Artificial Intelegent Expert, Fullstack Developer, Data Scientist, Mobile Developer from Indonesia.  
+I love building impactful digital products and continuously improving my skills in AI, web development, mobile apps.
 
 - 🌱 Currently learning: [teknologi yang sedang dipelajari]
 - 👯 Looking to collaborate on: [project open source, startup, dll.]
@@ -25,8 +25,8 @@ I love building impactful digital products and continuously improving my skills 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Farouq-beginner=Farouq-beginner&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farouq-beginner=Farouq-beginner&layout=compact&theme=tokyonight)
 
 ---
 
