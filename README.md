@@ -9,8 +9,9 @@
 <h2 align="center">⏰ Digital Clock</h2>
 
 <p align="center">
-  <img src="https://time.is/24.0.0/static/clock-24.svg?city=Jakarta" alt="Digital Clock" />
+  <img src="https://www.timezoneconverter.com/clock/UTC/000000" alt="Digital Clock" />
 </p>
+
 
 
 <p align="center">
