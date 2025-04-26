@@ -9,7 +9,7 @@
 <h2 align="center">⏰ Digital Clock</h2>
 
 <p align="center">
-  <img src="https://www.timezoneconverter.com/clock/UTC/000000" alt="Digital Clock" />
+  <img src="https://time.is/UTC/000000" alt="Digital Clock" />
 </p>
 
 
