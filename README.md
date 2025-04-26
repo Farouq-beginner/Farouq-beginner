@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farouq-beginner/Farouq-beginner/main/assets/banner.png" alt="banner" />
+  <img src="assets/JapanPixelArt.gif" alt="banner" />
 </p>
 
 <p align="center">
