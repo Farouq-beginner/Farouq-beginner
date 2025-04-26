@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAMEKAMU" />
+  <img src="https://komarev.com/ghpvc/?username=Farouq-beginner&label=Profile%20views&color=0e75b6&style=flat" alt="Farouq-beginner" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="trophies" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAMEKAMU/USERNAMEKAMU/main/assets/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Farouq-beginner/Farouq-beginner/main/assets/banner.png" alt="banner" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&margin-h=15&rank=SSS&column=5" alt="trophies" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&rank=1&column=5&margin-h=15" alt="trophies" />
 </p>
