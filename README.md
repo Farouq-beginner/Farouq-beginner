@@ -1,7 +1,11 @@
 <!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
 
 <h1 align="center">Hi 👋, I'm Farouq</h1>
-<h3 align="center">A passionate Scholar Informatics from Indonesia</h3>
+<h2 align="center">A passionate Scholar Informatics from Indonesia</h2>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+</h3>
 
 ---
 
@@ -22,6 +26,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -63,59 +68,7 @@
 ---
 
 
-
-# Hi there, I'm Farouq 👋
-
-## 🚀 About Me
-I'm a passionate Artificial Intelegent Expert, Fullstack Developer, Data Scientist, Mobile Developer from Indonesia.  
-I love building impactful digital products and continuously improving my skills in AI, web development, mobile apps.
-
-- 🌱 Currently learning: [teknologi yang sedang dipelajari]
-- 👯 Looking to collaborate on: [project open source, startup, dll.]
-- 💬 Ask me about: [topik yang kamu kuasai]
-- 📫 How to reach me: [email / LinkedIn]
-- ⚡ Fun fact: [fakta unik tentangmu]
-
----
-
-## 🛠️ Skills & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<!-- Tambahkan tools lain yang kamu kuasai -->
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Farouq-beginner&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farouq-beginner&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
-
-- [🚀 Project 1 - Nama Project](link ke repositori)
-- [📱 Project 2 - Nama Project](link ke repositori)
-- [🧠 Project 3 - Nama Project](link ke repositori)
-
----
-
-## 📫 Let's Connect!
-
-- [LinkedIn](link LinkedIn kamu)
-- [Email](mailto:emailkamu@email.com)
-- [Portfolio Website](link website jika ada)
-
----
-
-
-
-
-# Halo, Saya Farouq! 👋
+# Hi Everyone! 👋
 _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
 ![Contoh GIF](welcome.gif)
