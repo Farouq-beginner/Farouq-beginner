@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/USERNAMEKAMU/USERNAMEKAMU/main/assets/banner.png" alt="banner" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-h=15&column=5" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&margin-h=15&column=5" alt="trophies" />
 </p>
 
 
