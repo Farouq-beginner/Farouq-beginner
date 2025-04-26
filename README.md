@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/USERNAMEKAMU/USERNAMEKAMU/main/assets/banner.png" alt="banner" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-h=15&column=5" alt="trophies" />
+</p>
 
 
 <!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
@@ -93,9 +96,8 @@
 _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
 ![Contoh GIF](welcome.gif)
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 -->
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 <!--
 **Farouq-beginner/Farouq-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
