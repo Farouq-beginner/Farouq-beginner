@@ -12,6 +12,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&margin-h=15&rank=SSS&column=5" alt="trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&rank=1&column=5&margin-h=15" alt="trophies" />
+</p>
+
 
 <!-- PROFIL GITHUB TOKYO NIGHT STYLE -->
 <!--
