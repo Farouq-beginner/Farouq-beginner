@@ -1,7 +1,7 @@
 # Halo, Saya Farouq! 👋
 _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
-## Demo
+## Hallo
 ![Contoh GIF](welcome.gif)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
