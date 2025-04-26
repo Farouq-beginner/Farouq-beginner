@@ -1,7 +1,7 @@
 # Halo, Saya Farouq! 👋
 _Pemula yang antusias, belajar teknologi masa depan agar bisa menguasai dunia._
 
-![welcome]("C:\Users\Farouq\OneDrive\Dokumen\github\3D Modern Travel Vlog Youtube Intros.gif")
+![welcome](C:\Users\Farouq\OneDrive\Dokumen\github\3D Modern Travel Vlog Youtube Intros.gif)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 <!--
 **Farouq-beginner/Farouq-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
