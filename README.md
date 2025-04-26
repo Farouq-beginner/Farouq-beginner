@@ -1,6 +1,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farouq-beginner&label=Profile%20views&color=0e75b6&style=flat" alt="Farouq-beginner" />
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Mobile%20App%20Developer;Tech%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+</h3>
+
+<h2 align="center">⏰ Digital Clock</h2>
+
+<p align="center">
+  <img src="https://time.is/24.0.0/static/clock-24.svg?city=UTC" alt="Digital Clock" />
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farouq-beginner/Farouq-beginner/main/assets/banner.png" alt="banner" />
 </p>
