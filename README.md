@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/Farouq Gif.gif" alt="banner" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farouq-beginner&label=Profile%20views&color=0e75b6&style=flat" alt="Farouq-beginner" />
 </p>
 
@@ -9,6 +12,7 @@
 <p align="center">
   <img src="assets/JapanPixelArt.gif" alt="banner" />
 </p>
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Farouq-beginner&theme=tokyonight&no-frame=true&margin-h=15&rank=SSS&column=5" alt="trophies" />
 </p>
