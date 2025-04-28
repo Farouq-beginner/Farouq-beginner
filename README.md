@@ -1,15 +1,6 @@
 # Proyek Saya
 
 
-## GIF Animasi
-![Contoh GIF](https://github.com/Farouq-beginner/Farouq-beginner/blob/main/assets/Farouq%20Gif.gif)
-
-## Lottie Animasi
-<iframe src="https://creator.lottiefiles.com/?remixId=a869188a-2880-44bd-9f36-1eb94e0faac7" width="300" height="300"></iframe>
-
-## ASCII Art
-
-<!--
 <p align="center">
   <img src="assets/Farouq Gif.gif" alt="banner" />
 </p>
