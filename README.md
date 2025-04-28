@@ -1,5 +1,3 @@
-# Proyek Saya
-
 
 <p align="center">
   <img src="assets/Farouq Gif.gif" alt="banner" />
