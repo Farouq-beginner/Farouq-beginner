@@ -1,12 +1,11 @@
 # Proyek Saya
 
-Selamat datang di proyek saya! Berikut adalah contoh animasi:
 
 ## GIF Animasi
 ![Contoh GIF](https://github.com/Farouq-beginner/Farouq-beginner/blob/main/assets/Farouq%20Gif.gif)
 
 ## Lottie Animasi
-<iframe src="https://lottie.host/embed/your-lottie-id" width="300" height="300"></iframe>
+<iframe src="https://lottiefiles.com/free-animation/website-scrolling-o62xS8AixW" width="300" height="300"></iframe>
 
 ## ASCII Art
 
