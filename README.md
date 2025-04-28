@@ -5,7 +5,7 @@
 ![Contoh GIF](https://github.com/Farouq-beginner/Farouq-beginner/blob/main/assets/Farouq%20Gif.gif)
 
 ## Lottie Animasi
-<iframe src="https://lottiefiles.com/free-animation/website-scrolling-o62xS8AixW" width="300" height="300"></iframe>
+<iframe src="[https://lottiefiles.com/free-animation/website-scrolling-o62xS8AixW](https://creator.lottiefiles.com?remixId=a869188a-2880-44bd-9f36-1eb94e0faac7)" width="300" height="300"></iframe>
 
 ## ASCII Art
 
