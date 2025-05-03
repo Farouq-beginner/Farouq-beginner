@@ -1,16 +1,3 @@
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Farouq-beginner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-      <br><br>  
-      <img src="https://streak-stats.demolab.com?user=Farouq-beginner&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Farouq-beginner&theme=dracula&hide_border=false&langs_count=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="assets/Farouq Gif.gif" alt="banner" />
 </p>
